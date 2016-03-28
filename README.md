@@ -11,3 +11,6 @@ the unity game is going to coded in C#, the robot is a mix of python as it is go
 
 PROGRESS REPORTS TO FOLLOW ALONG WITH PHOTOS OF THE BUILD!!!!
 
+UPDATE!!!
+so after burning out many pi's and more micro controllers than i can count i think i may have just got it right i have motor control and video working on a remote machine.
+there is still so much to do but i will upload photos and code snippets soon
